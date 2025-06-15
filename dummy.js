@@ -6217,3 +6217,5 @@ for (let i = 0; i < 10; i++) {
     }
   ]
   
+
+  //TODO: pagination works but on page change products don't change.
